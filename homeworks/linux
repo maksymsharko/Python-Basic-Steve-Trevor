@@ -41,7 +41,7 @@ Hint: Use grep
 
 🔍 Self Discovery: The head and tail commands output only the first or last few lines (respectively) of a file to the terminal.
 
-15. Display only the first 7 lines of the file animals.txt from the current directory on the terminal.
+15. Display only the first 7 lines of the file hw.txt from the current directory on the terminal.
 
 16*. Create test.sh with echo 'Hello' and make it executable
 
