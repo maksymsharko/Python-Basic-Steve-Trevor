@@ -23,7 +23,7 @@ You can use a wildcard in the middle of a file name, such as foo*bar for all fil
 
 Create hw.sh, hw1.sh, hw2.sh, hw1.txt under the cursor directory
 
-8. List all web page files (only with the extension .sh) in the current directory.
+8. List all files (only with the extension .sh) in the current directory.
 Note that the ls command can accept more than one parameter for what files you want it to list.
 Hint: Use grep
 
